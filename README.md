@@ -186,3 +186,30 @@ An **interactive Plotly visualization** was created to compare rating distributi
 
 ---
 
+# 💡 Key Business Insights
+
+### 📌 Content Portfolio
+
+Movies make up the majority of the Netflix catalog represented in this dataset, accounting for **69.69%** of titles.
+
+### 🌍 International Content
+
+International content categories have a significant presence, with **International Movies** being the largest genre category.
+
+### 🎭 Genre Distribution
+
+Dramas and Comedies are among the most common genre categories, indicating a diverse content portfolio across entertainment categories.
+
+### 🔞 Rating Distribution
+
+TV-MA and TV-14 are the two most common rating categories in the dataset.
+
+### 📅 Release Trends
+
+The number of recorded titles increased significantly during the 2010s, with **2018** being the peak release year in the dataset.
+
+### 🌎 Geographic Distribution
+
+The United States has the highest number of titles, while India and the United Kingdom are also major contributors.
+
+---
