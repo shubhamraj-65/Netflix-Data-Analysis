@@ -139,4 +139,29 @@ Content ratings were analyzed to understand the rating distribution across the N
 **TV-MA** is the most common rating in the dataset, followed by **TV-14**.
 
 ---
+## 6️⃣ Genre Analysis
+
+Multiple genres were extracted from the `listed_in` column and analyzed individually.
+
+### Top 10 Genres
+
+| Rank | Genre | Titles |
+|---:|---|---:|
+| 1 | 🌎 International Movies | 2,752 |
+| 2 | 🎭 Dramas | 2,426 |
+| 3 | 😂 Comedies | 1,674 |
+| 4 | 🌎 International TV Shows | 1,349 |
+| 5 | 📚 Documentaries | 869 |
+| 6 | ⚔️ Action & Adventure | 859 |
+| 7 | 📺 TV Dramas | 762 |
+| 8 | 🎬 Independent Movies | 756 |
+| 9 | 👨‍👩‍👧 Children & Family Movies | 641 |
+| 10 | ❤️ Romantic Movies | 616 |
+
+### Key Finding
+
+**International Movies** are the most common genre category in the dataset, followed by **Dramas** and **Comedies**.
+
+---
+
 
