@@ -36,3 +36,15 @@ The analysis covers data cleaning, content type distribution, country-wise conte
 - Generate actionable business insights
 
 ---
+## 🛠️ Tools & Technologies
+
+| Tool | Purpose |
+|---|---|
+| 🐍 Python | Data analysis and programming |
+| 🐼 Pandas | Data manipulation and analysis |
+| 🔢 NumPy | Numerical operations |
+| 📊 Matplotlib | Data visualization |
+| 📈 Plotly | Interactive visualization |
+| 📓 Jupyter Notebook | Analysis environment |
+
+---
