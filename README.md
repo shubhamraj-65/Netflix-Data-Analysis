@@ -84,4 +84,25 @@ The distribution of Movies and TV Shows was analyzed.
 Movies represent the majority of titles in the dataset, accounting for approximately **69.69%** of the total content.
 
 ---
+## 3️⃣ Country-Wise Content Analysis
+
+Netflix content was analyzed based on country.
+
+### Top 5 Countries
+
+| Rank | Country | Titles |
+|---:|---|---:|
+| 1 | 🇺🇸 United States | 3,240 |
+| 2 | 🇮🇳 India | 1,057 |
+| 3 | 🇬🇧 United Kingdom | 638 |
+| 4 | 🇵🇰 Pakistan | 421 |
+| 5 | 🇨🇦 Canada | 271 |
+
+### Key Finding
+
+The United States has the highest number of titles in the dataset, followed by India and the United Kingdom.
+
+The dataset contains content from multiple countries, showing a broad international content presence.
+
+---
 
