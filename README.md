@@ -120,5 +120,23 @@ The number of Netflix titles by release year was analyzed to identify content tr
 > Note: The decline in recorded titles after 2018 reflects the available records in this dataset and should not by itself be interpreted as an actual decline in Netflix production.
 
 ---
+## 5️⃣ Rating Analysis
 
+Content ratings were analyzed to understand the rating distribution across the Netflix catalog.
+
+### Top Ratings
+
+| Rank | Rating | Titles |
+|---:|---|---:|
+| 1 | TV-MA | 3,205 |
+| 2 | TV-14 | 2,157 |
+| 3 | TV-PG | 861 |
+| 4 | R | 799 |
+| 5 | PG-13 | 490 |
+
+### Key Finding
+
+**TV-MA** is the most common rating in the dataset, followed by **TV-14**.
+
+---
 
