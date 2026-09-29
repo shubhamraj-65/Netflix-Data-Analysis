@@ -1,9 +1,7 @@
 # 🎬 Netflix Data Analysis using Python
 
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" width="100%">
-</p>
-
+  
 <p align="center">
   <b>Exploratory Data Analysis • Data Cleaning • Visualization • Business Insights</b>
 </p>
