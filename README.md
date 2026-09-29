@@ -69,3 +69,19 @@ The dataset was analyzed and prepared using Pandas.
 - **Total Columns:** 10
 
 ---
+## 2️⃣ Content Type Analysis
+
+The distribution of Movies and TV Shows was analyzed.
+
+| Content Type | Titles | Percentage |
+|---|---:|---:|
+| 🎬 Movies | 6,126 | 69.69% |
+| 📺 TV Shows | 2,664 | 30.31% |
+| **Total** | **8,790** | **100%** |
+
+### Key Finding
+
+Movies represent the majority of titles in the dataset, accounting for approximately **69.69%** of the total content.
+
+---
+
