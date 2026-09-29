@@ -163,5 +163,26 @@ Multiple genres were extracted from the `listed_in` column and analyzed individu
 **International Movies** are the most common genre category in the dataset, followed by **Dramas** and **Comedies**.
 
 ---
+## 7️⃣ Rating Comparison: Movies vs TV Shows
 
+Ratings were compared across Movies and TV Shows using a cross-tabulation analysis.
+
+### Selected Findings
+
+- TV-MA:
+  - Movies: **2,062**
+  - TV Shows: **1,143**
+- TV-14:
+  - Movies: **1,427**
+  - TV Shows: **730**
+- TV-Y:
+  - Movies: **131**
+  - TV Shows: **175**
+- TV-Y7:
+  - Movies: **139**
+  - TV Shows: **194**
+
+An **interactive Plotly visualization** was created to compare rating distributions across content types.
+
+---
 
