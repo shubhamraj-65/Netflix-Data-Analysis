@@ -48,3 +48,24 @@ The analysis covers data cleaning, content type distribution, country-wise conte
 | 📓 Jupyter Notebook | Analysis environment |
 
 ---
+# 📊 Analysis Performed
+
+## 1️⃣ Data Cleaning & Preparation
+
+The dataset was analyzed and prepared using Pandas.
+
+### Cleaning activities:
+
+- Checked missing values
+- Identified duplicate records
+- Checked formatting consistency
+- Standardized missing country values
+- Verified content types and ratings
+- Exported the cleaned dataset
+
+### Dataset Size
+
+- **Total Records:** 8,790
+- **Total Columns:** 10
+
+---
