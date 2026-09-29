@@ -238,3 +238,11 @@ Track release-year trends regularly to identify changes in catalog composition a
 
 ---
 
+# 📁 Project Structure
+
+```text
+Netflix-Data-Analysis/
+│
+├── 📓 netflix_data_analysis.ipynb
+├── 📊 netflix_cleaned.csv
+└── 📖 README.md
