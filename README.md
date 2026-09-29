@@ -105,4 +105,20 @@ The United States has the highest number of titles in the dataset, followed by I
 The dataset contains content from multiple countries, showing a broad international content presence.
 
 ---
+## 4️⃣ Release Year Trend Analysis
+
+The number of Netflix titles by release year was analyzed to identify content trends over time.
+
+### Key Findings
+
+- The dataset shows an overall increasing trend in recorded content over the years.
+- A noticeable increase appears after 2000.
+- Content growth becomes more prominent after 2015.
+- **2018 recorded the highest number of titles.**
+- **1,146 titles** were recorded for the year 2018.
+
+> Note: The decline in recorded titles after 2018 reflects the available records in this dataset and should not by itself be interpreted as an actual decline in Netflix production.
+
+---
+
 
