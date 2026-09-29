@@ -23,3 +23,16 @@ This project analyzes a Netflix content dataset using **Python and Pandas** to u
 The analysis covers data cleaning, content type distribution, country-wise content, release-year trends, genres, ratings, visualizations, and business insights.
 
 ---
+## 🎯 Objectives
+
+- Clean and prepare the Netflix dataset
+- Analyze Movies vs TV Shows
+- Analyze Netflix content by country
+- Identify release-year trends
+- Analyze content ratings
+- Identify the most common genres
+- Compare ratings across Movies and TV Shows
+- Create meaningful visualizations
+- Generate actionable business insights
+
+---
