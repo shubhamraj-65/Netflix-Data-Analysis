@@ -213,3 +213,28 @@ The number of recorded titles increased significantly during the 2010s, with **2
 The United States has the highest number of titles, while India and the United Kingdom are also major contributors.
 
 ---
+
+# 📈 Actionable Business Recommendations
+
+### 1. Content Portfolio Planning
+
+Monitor the balance between Movies and TV Shows to understand catalog composition and support future content planning.
+
+### 2. International Content Strategy
+
+Analyze international content by country, genre, and rating to identify opportunities for regional content expansion.
+
+### 3. Genre Strategy
+
+Monitor high-volume categories such as International Movies, Dramas, and Comedies when evaluating future content categories.
+
+### 4. Audience Segmentation
+
+Combine rating and genre information to understand different content segments and support targeted content planning.
+
+### 5. Trend Monitoring
+
+Track release-year trends regularly to identify changes in catalog composition and support data-driven planning.
+
+---
+
