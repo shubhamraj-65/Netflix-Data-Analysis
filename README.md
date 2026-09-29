@@ -24,3 +24,14 @@ The analysis includes data cleaning, exploratory data analysis (EDA), visualizat
 - Matplotlib
 - Plotly
 - Jupyter Notebook
+
+## 📊 Analysis Performed
+
+### 1. Data Cleaning & Preparation
+
+- Checked missing values
+- Identified duplicate records
+- Checked formatting consistency
+- Standardized missing country values
+- Exported the cleaned dataset
+
