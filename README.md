@@ -16,4 +16,10 @@
 </p>
 
 ---
+## 📌 Project Overview
 
+This project analyzes a Netflix content dataset using **Python and Pandas** to understand the distribution and characteristics of Netflix Movies and TV Shows.
+
+The analysis covers data cleaning, content type distribution, country-wise content, release-year trends, genres, ratings, visualizations, and business insights.
+
+---
